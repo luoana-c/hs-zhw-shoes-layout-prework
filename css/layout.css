@@ -23,7 +23,7 @@
 }
 
 .row {
-  
+  overflow: hidden;
 }
 
 .row .smallContainer, .row .bigContainer {
