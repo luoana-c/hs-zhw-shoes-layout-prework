@@ -31,7 +31,7 @@
   margin-bottom: 20px;
 }
 
-.row div:last-child .smallContainer {
+.row div:last-child {
   margin-right: 0;
 }
 
