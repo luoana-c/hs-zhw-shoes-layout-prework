@@ -22,6 +22,29 @@
   clear: both;
 }
 
+.smallContainer, .bigContainer {
+  float: left;
+  margin-bottom: 20px;
+}
+
+.smallContainer {
+  width: 33.33333%;
+  padding-right: 20px;
+}
+
+.bigContainer {
+  width: 66.66666%;
+  padding-right: 20px;
+}
+
+.inner {
+  
+}
+
+.innerContainer {
+  padding-right: 10px;
+}
+
 /* Posititoning Classes */
 
 
