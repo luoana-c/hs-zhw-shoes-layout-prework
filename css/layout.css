@@ -31,6 +31,10 @@
   margin-bottom: 20px;
 }
 
+.row:last_child() {
+  margin-right: 0;
+}
+
 .smallContainer {
   width: 27.33333%;
   margin-right: 3%;
