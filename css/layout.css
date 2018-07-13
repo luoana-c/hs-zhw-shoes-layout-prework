@@ -31,7 +31,7 @@
   margin-bottom: 20px;
 }
 
-.row div:last_child {
+.row div last_of_type {
   margin-right: 0;
 }
 
