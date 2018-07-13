@@ -22,7 +22,11 @@
   clear: both;
 }
 
-.smallContainer, .bigContainer {
+.row {
+  
+}
+
+.row .smallContainer, .row .bigContainer {
   float: left;
   margin-bottom: 20px;
 }
